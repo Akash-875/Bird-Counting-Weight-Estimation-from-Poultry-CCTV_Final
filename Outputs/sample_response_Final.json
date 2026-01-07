@@ -1,0 +1,5451 @@
+{
+    "total_birds_in_video": 272,
+    "total_active_birds": 202,
+    "processing_fps": 5.34,
+    "counts": [
+        {
+            "timestamp_sec": 0.0,
+            "active_birds": 13,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 0.03,
+            "active_birds": 18,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 0.07,
+            "active_birds": 20,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 0.1,
+            "active_birds": 23,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 0.13,
+            "active_birds": 25,
+            "average_weight_index": 0.16
+        },
+        {
+            "timestamp_sec": 0.17,
+            "active_birds": 30,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 0.2,
+            "active_birds": 33,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 0.23,
+            "active_birds": 35,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 0.27,
+            "active_birds": 36,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 0.3,
+            "active_birds": 35,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 0.33,
+            "active_birds": 36,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 0.37,
+            "active_birds": 36,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 0.4,
+            "active_birds": 35,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.43,
+            "active_birds": 35,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.47,
+            "active_birds": 34,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.5,
+            "active_birds": 33,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.53,
+            "active_birds": 31,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 0.57,
+            "active_birds": 31,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 0.6,
+            "active_birds": 31,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 0.63,
+            "active_birds": 32,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 0.67,
+            "active_birds": 32,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 0.7,
+            "active_birds": 31,
+            "average_weight_index": 0.08
+        },
+        {
+            "timestamp_sec": 0.73,
+            "active_birds": 30,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.77,
+            "active_birds": 28,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.8,
+            "active_birds": 27,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.83,
+            "active_birds": 26,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 0.87,
+            "active_birds": 26,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.9,
+            "active_birds": 25,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 0.93,
+            "active_birds": 26,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 0.97,
+            "active_birds": 26,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.0,
+            "active_birds": 27,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.03,
+            "active_birds": 27,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.07,
+            "active_birds": 28,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.1,
+            "active_birds": 29,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.13,
+            "active_birds": 28,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.17,
+            "active_birds": 27,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 1.2,
+            "active_birds": 26,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.23,
+            "active_birds": 25,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.27,
+            "active_birds": 24,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.3,
+            "active_birds": 25,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 1.33,
+            "active_birds": 28,
+            "average_weight_index": 0.16
+        },
+        {
+            "timestamp_sec": 1.37,
+            "active_birds": 32,
+            "average_weight_index": 0.15
+        },
+        {
+            "timestamp_sec": 1.4,
+            "active_birds": 34,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 1.43,
+            "active_birds": 37,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 1.47,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 1.5,
+            "active_birds": 38,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.53,
+            "active_birds": 37,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.57,
+            "active_birds": 38,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 1.6,
+            "active_birds": 38,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 1.63,
+            "active_birds": 38,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.67,
+            "active_birds": 38,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.7,
+            "active_birds": 38,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.73,
+            "active_birds": 37,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.77,
+            "active_birds": 36,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.8,
+            "active_birds": 36,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.83,
+            "active_birds": 36,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.87,
+            "active_birds": 35,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 1.9,
+            "active_birds": 34,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 1.93,
+            "active_birds": 32,
+            "average_weight_index": 0.08
+        },
+        {
+            "timestamp_sec": 1.97,
+            "active_birds": 29,
+            "average_weight_index": 0.08
+        },
+        {
+            "timestamp_sec": 2.0,
+            "active_birds": 28,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.03,
+            "active_birds": 27,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 2.07,
+            "active_birds": 26,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.1,
+            "active_birds": 27,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.13,
+            "active_birds": 29,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 2.17,
+            "active_birds": 30,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.2,
+            "active_birds": 31,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 2.23,
+            "active_birds": 32,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.27,
+            "active_birds": 33,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.3,
+            "active_birds": 32,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.33,
+            "active_birds": 31,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 2.37,
+            "active_birds": 30,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.4,
+            "active_birds": 29,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.43,
+            "active_birds": 29,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.47,
+            "active_birds": 29,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.5,
+            "active_birds": 29,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.53,
+            "active_birds": 29,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.57,
+            "active_birds": 30,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.6,
+            "active_birds": 30,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.63,
+            "active_birds": 30,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.67,
+            "active_birds": 30,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 2.7,
+            "active_birds": 30,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.73,
+            "active_birds": 31,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.77,
+            "active_birds": 31,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.8,
+            "active_birds": 31,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.83,
+            "active_birds": 31,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.87,
+            "active_birds": 31,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.9,
+            "active_birds": 29,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 2.93,
+            "active_birds": 28,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 2.97,
+            "active_birds": 28,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.0,
+            "active_birds": 28,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.03,
+            "active_birds": 27,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 3.07,
+            "active_birds": 27,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.1,
+            "active_birds": 27,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 3.13,
+            "active_birds": 26,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 3.17,
+            "active_birds": 26,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 3.2,
+            "active_birds": 25,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 3.23,
+            "active_birds": 25,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.27,
+            "active_birds": 24,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 3.3,
+            "active_birds": 25,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 3.33,
+            "active_birds": 26,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 3.37,
+            "active_birds": 27,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 3.4,
+            "active_birds": 28,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.43,
+            "active_birds": 28,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.47,
+            "active_birds": 29,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 3.5,
+            "active_birds": 30,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 3.53,
+            "active_birds": 30,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 3.57,
+            "active_birds": 31,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 3.6,
+            "active_birds": 32,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.63,
+            "active_birds": 32,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 3.67,
+            "active_birds": 32,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 3.7,
+            "active_birds": 33,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 3.73,
+            "active_birds": 34,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.77,
+            "active_birds": 36,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.8,
+            "active_birds": 35,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.83,
+            "active_birds": 35,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 3.87,
+            "active_birds": 35,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.9,
+            "active_birds": 35,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.93,
+            "active_birds": 35,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 3.97,
+            "active_birds": 35,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.0,
+            "active_birds": 35,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.03,
+            "active_birds": 35,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.07,
+            "active_birds": 33,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.1,
+            "active_birds": 31,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.13,
+            "active_birds": 30,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.17,
+            "active_birds": 29,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.2,
+            "active_birds": 29,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.23,
+            "active_birds": 30,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.27,
+            "active_birds": 30,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.3,
+            "active_birds": 30,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.33,
+            "active_birds": 30,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.37,
+            "active_birds": 29,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.4,
+            "active_birds": 29,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 4.43,
+            "active_birds": 28,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 4.47,
+            "active_birds": 29,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 4.5,
+            "active_birds": 29,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.53,
+            "active_birds": 30,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.57,
+            "active_birds": 30,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.6,
+            "active_birds": 30,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.63,
+            "active_birds": 29,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.67,
+            "active_birds": 30,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 4.7,
+            "active_birds": 30,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.73,
+            "active_birds": 29,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.77,
+            "active_birds": 28,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.8,
+            "active_birds": 27,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.83,
+            "active_birds": 26,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.87,
+            "active_birds": 25,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 4.9,
+            "active_birds": 24,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 4.93,
+            "active_birds": 24,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 4.97,
+            "active_birds": 24,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 5.0,
+            "active_birds": 24,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 5.03,
+            "active_birds": 26,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 5.07,
+            "active_birds": 28,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 5.1,
+            "active_birds": 30,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 5.13,
+            "active_birds": 33,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 5.17,
+            "active_birds": 37,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 5.2,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 5.23,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.27,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.3,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.33,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 5.37,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.4,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.43,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.47,
+            "active_birds": 39,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.5,
+            "active_birds": 39,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 5.53,
+            "active_birds": 38,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.57,
+            "active_birds": 37,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 5.6,
+            "active_birds": 37,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.63,
+            "active_birds": 36,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 5.67,
+            "active_birds": 35,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 5.7,
+            "active_birds": 33,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.73,
+            "active_birds": 34,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.77,
+            "active_birds": 32,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.8,
+            "active_birds": 32,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 5.83,
+            "active_birds": 33,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 5.87,
+            "active_birds": 33,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 5.9,
+            "active_birds": 34,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 5.93,
+            "active_birds": 36,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 5.97,
+            "active_birds": 37,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.0,
+            "active_birds": 38,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.03,
+            "active_birds": 38,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.07,
+            "active_birds": 38,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.1,
+            "active_birds": 39,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.13,
+            "active_birds": 39,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.17,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 6.2,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 6.23,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 6.27,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.3,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.33,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.37,
+            "active_birds": 44,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 6.4,
+            "active_birds": 42,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 6.43,
+            "active_birds": 42,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 6.47,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 6.5,
+            "active_birds": 40,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 6.53,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 6.57,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.6,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.63,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.67,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.7,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 6.73,
+            "active_birds": 43,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 6.77,
+            "active_birds": 45,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 6.8,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 6.83,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 6.87,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 6.9,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 6.93,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 6.97,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.0,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.03,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.07,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.1,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.13,
+            "active_birds": 47,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.17,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.2,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.23,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.27,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.3,
+            "active_birds": 39,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.33,
+            "active_birds": 37,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.37,
+            "active_birds": 36,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.4,
+            "active_birds": 34,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 7.43,
+            "active_birds": 34,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 7.47,
+            "active_birds": 35,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 7.5,
+            "active_birds": 36,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 7.53,
+            "active_birds": 37,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 7.57,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 7.6,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 7.63,
+            "active_birds": 43,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 7.67,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 7.7,
+            "active_birds": 46,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.73,
+            "active_birds": 45,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 7.77,
+            "active_birds": 45,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 7.8,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.83,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.87,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.9,
+            "active_birds": 41,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 7.93,
+            "active_birds": 40,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 7.97,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.0,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.03,
+            "active_birds": 41,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 8.07,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.1,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.13,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.17,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.2,
+            "active_birds": 45,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.23,
+            "active_birds": 43,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 8.27,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.3,
+            "active_birds": 38,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.33,
+            "active_birds": 37,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.37,
+            "active_birds": 37,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 8.4,
+            "active_birds": 38,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 8.43,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.47,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.5,
+            "active_birds": 42,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 8.53,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.57,
+            "active_birds": 42,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.6,
+            "active_birds": 42,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.63,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.67,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.7,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.73,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.77,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.8,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 8.83,
+            "active_birds": 44,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.87,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.9,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 8.93,
+            "active_birds": 42,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 8.97,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 9.0,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.03,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.07,
+            "active_birds": 39,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 9.1,
+            "active_birds": 39,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.13,
+            "active_birds": 39,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.17,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.2,
+            "active_birds": 41,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.23,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.27,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.3,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 9.33,
+            "active_birds": 40,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 9.37,
+            "active_birds": 38,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 9.4,
+            "active_birds": 37,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.43,
+            "active_birds": 36,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.47,
+            "active_birds": 37,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.5,
+            "active_birds": 37,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.53,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.57,
+            "active_birds": 41,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.6,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.63,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.67,
+            "active_birds": 44,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 9.7,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.73,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.77,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.8,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.83,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 9.87,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.9,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 9.93,
+            "active_birds": 45,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 9.97,
+            "active_birds": 46,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 10.0,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 10.03,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 10.07,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 10.1,
+            "active_birds": 49,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.13,
+            "active_birds": 49,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.17,
+            "active_birds": 49,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.2,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 10.23,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 10.27,
+            "active_birds": 48,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.3,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 10.33,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 10.37,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 10.4,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 10.43,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 10.47,
+            "active_birds": 44,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.5,
+            "active_birds": 43,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.53,
+            "active_birds": 44,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 10.57,
+            "active_birds": 44,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.6,
+            "active_birds": 46,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 10.63,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.67,
+            "active_birds": 45,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.7,
+            "active_birds": 45,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.73,
+            "active_birds": 45,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.77,
+            "active_birds": 43,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.8,
+            "active_birds": 43,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.83,
+            "active_birds": 43,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.87,
+            "active_birds": 44,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.9,
+            "active_birds": 44,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.93,
+            "active_birds": 45,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 10.97,
+            "active_birds": 46,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.0,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 11.03,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 11.07,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.1,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 11.13,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 11.17,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.2,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 11.23,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.27,
+            "active_birds": 43,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 11.3,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 11.33,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.37,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.4,
+            "active_birds": 41,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.43,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.47,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.5,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.53,
+            "active_birds": 38,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 11.57,
+            "active_birds": 38,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.6,
+            "active_birds": 38,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.63,
+            "active_birds": 38,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.67,
+            "active_birds": 38,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.7,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.73,
+            "active_birds": 40,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 11.77,
+            "active_birds": 40,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 11.8,
+            "active_birds": 41,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 11.83,
+            "active_birds": 42,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 11.87,
+            "active_birds": 44,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 11.9,
+            "active_birds": 46,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.93,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 11.97,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.0,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.03,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.07,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.1,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.13,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.17,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.2,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.23,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.27,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.3,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.33,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.37,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.4,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.43,
+            "active_birds": 46,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 12.47,
+            "active_birds": 45,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 12.5,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.53,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.57,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.6,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.63,
+            "active_birds": 46,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.67,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.7,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.73,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.77,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.8,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 12.83,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.87,
+            "active_birds": 47,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 12.9,
+            "active_birds": 45,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 12.93,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 12.97,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.0,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 13.03,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 13.07,
+            "active_birds": 39,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 13.1,
+            "active_birds": 40,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 13.13,
+            "active_birds": 43,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 13.17,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.2,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.23,
+            "active_birds": 47,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 13.27,
+            "active_birds": 46,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 13.3,
+            "active_birds": 44,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 13.33,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.37,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 13.4,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.43,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 13.47,
+            "active_birds": 44,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 13.5,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.53,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 13.57,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 13.6,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.63,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.67,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.7,
+            "active_birds": 45,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 13.73,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 13.77,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 13.8,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.83,
+            "active_birds": 45,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 13.87,
+            "active_birds": 45,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 13.9,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.93,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 13.97,
+            "active_birds": 45,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.0,
+            "active_birds": 46,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.03,
+            "active_birds": 47,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.07,
+            "active_birds": 49,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.1,
+            "active_birds": 50,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.13,
+            "active_birds": 50,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.17,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.2,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.23,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.27,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.3,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 14.33,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.37,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.4,
+            "active_birds": 63,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.43,
+            "active_birds": 63,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.47,
+            "active_birds": 63,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.5,
+            "active_birds": 61,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.53,
+            "active_birds": 59,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.57,
+            "active_birds": 56,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 14.6,
+            "active_birds": 54,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 14.63,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.67,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.7,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.73,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.77,
+            "active_birds": 50,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 14.8,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.83,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 14.87,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 14.9,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 14.93,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 14.97,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.0,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 15.03,
+            "active_birds": 58,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 15.07,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 15.1,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.13,
+            "active_birds": 61,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.17,
+            "active_birds": 60,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.2,
+            "active_birds": 58,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 15.23,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.27,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.3,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.33,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.37,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.4,
+            "active_birds": 57,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.43,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.47,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.5,
+            "active_birds": 58,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.53,
+            "active_birds": 58,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.57,
+            "active_birds": 58,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.6,
+            "active_birds": 56,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.63,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.67,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.7,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.73,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.77,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.8,
+            "active_birds": 51,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.83,
+            "active_birds": 49,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 15.87,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.9,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.93,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 15.97,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.0,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.03,
+            "active_birds": 52,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.07,
+            "active_birds": 51,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 16.1,
+            "active_birds": 50,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 16.13,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.17,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 16.2,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.23,
+            "active_birds": 48,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 16.27,
+            "active_birds": 47,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 16.3,
+            "active_birds": 46,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 16.33,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.37,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.4,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.43,
+            "active_birds": 46,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 16.47,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.5,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 16.53,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 16.57,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.6,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.63,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.67,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.7,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.73,
+            "active_birds": 56,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.77,
+            "active_birds": 56,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.8,
+            "active_birds": 56,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 16.83,
+            "active_birds": 56,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 16.87,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 16.9,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 16.93,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 16.97,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.0,
+            "active_birds": 61,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.03,
+            "active_birds": 63,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.07,
+            "active_birds": 63,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.1,
+            "active_birds": 60,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 17.13,
+            "active_birds": 58,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 17.17,
+            "active_birds": 57,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 17.2,
+            "active_birds": 56,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 17.23,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.27,
+            "active_birds": 56,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.3,
+            "active_birds": 56,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 17.33,
+            "active_birds": 55,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 17.37,
+            "active_birds": 53,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 17.4,
+            "active_birds": 51,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 17.43,
+            "active_birds": 47,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 17.47,
+            "active_birds": 46,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 17.5,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.53,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.57,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.6,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.63,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.67,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.7,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.73,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.77,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.8,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.83,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.87,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 17.9,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.93,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 17.97,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.0,
+            "active_birds": 56,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.03,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.07,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.1,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 18.13,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.17,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 18.2,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 18.23,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 18.27,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 18.3,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 18.33,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.37,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.4,
+            "active_birds": 58,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.43,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.47,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.5,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.53,
+            "active_birds": 58,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.57,
+            "active_birds": 58,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.6,
+            "active_birds": 58,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.63,
+            "active_birds": 57,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.67,
+            "active_birds": 56,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.7,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.73,
+            "active_birds": 54,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 18.77,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.8,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.83,
+            "active_birds": 52,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 18.87,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.9,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.93,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 18.97,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.0,
+            "active_birds": 52,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.03,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.07,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.1,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.13,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.17,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.2,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.23,
+            "active_birds": 55,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.27,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.3,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.33,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.37,
+            "active_birds": 51,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.4,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.43,
+            "active_birds": 48,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.47,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.5,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.53,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.57,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.6,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 19.63,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 19.67,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.7,
+            "active_birds": 49,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.73,
+            "active_birds": 49,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.77,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.8,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.83,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.87,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 19.9,
+            "active_birds": 54,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.93,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 19.97,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.0,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.03,
+            "active_birds": 52,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.07,
+            "active_birds": 50,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.1,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.13,
+            "active_birds": 51,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.17,
+            "active_birds": 49,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.2,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.23,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.27,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.3,
+            "active_birds": 49,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.33,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.37,
+            "active_birds": 51,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.4,
+            "active_birds": 52,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.43,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.47,
+            "active_birds": 52,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.5,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.53,
+            "active_birds": 51,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.57,
+            "active_birds": 49,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.6,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.63,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 20.67,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 20.7,
+            "active_birds": 50,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 20.73,
+            "active_birds": 52,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 20.77,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.8,
+            "active_birds": 53,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.83,
+            "active_birds": 52,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 20.87,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.9,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 20.93,
+            "active_birds": 47,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 20.97,
+            "active_birds": 46,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.0,
+            "active_birds": 45,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.03,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.07,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 21.1,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.13,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.17,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.2,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.23,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.27,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.3,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.33,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.37,
+            "active_birds": 46,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.4,
+            "active_birds": 44,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.43,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.47,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.5,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.53,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.57,
+            "active_birds": 40,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.6,
+            "active_birds": 39,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.63,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 21.67,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 21.7,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 21.73,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.77,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.8,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.83,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.87,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 21.9,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.93,
+            "active_birds": 41,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 21.97,
+            "active_birds": 40,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 22.0,
+            "active_birds": 39,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 22.03,
+            "active_birds": 37,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.07,
+            "active_birds": 37,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.1,
+            "active_birds": 37,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 22.13,
+            "active_birds": 39,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 22.17,
+            "active_birds": 42,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 22.2,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 22.23,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.27,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.3,
+            "active_birds": 48,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.33,
+            "active_birds": 47,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 22.37,
+            "active_birds": 46,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.4,
+            "active_birds": 44,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 22.43,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 22.47,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.5,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 22.53,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.57,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.6,
+            "active_birds": 42,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 22.63,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.67,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.7,
+            "active_birds": 40,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.73,
+            "active_birds": 39,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.77,
+            "active_birds": 38,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 22.8,
+            "active_birds": 39,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 22.83,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 22.87,
+            "active_birds": 41,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 22.9,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 22.93,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 22.97,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.0,
+            "active_birds": 44,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 23.03,
+            "active_birds": 43,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 23.07,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.1,
+            "active_birds": 41,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.13,
+            "active_birds": 40,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.17,
+            "active_birds": 41,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 23.2,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.23,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.27,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.3,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.33,
+            "active_birds": 45,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.37,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.4,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.43,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.47,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.5,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.53,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.57,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.6,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.63,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.67,
+            "active_birds": 42,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 23.7,
+            "active_birds": 42,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.73,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.77,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.8,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.83,
+            "active_birds": 50,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 23.87,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 23.9,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.93,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 23.97,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.0,
+            "active_birds": 57,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 24.03,
+            "active_birds": 56,
+            "average_weight_index": 0.08
+        },
+        {
+            "timestamp_sec": 24.07,
+            "active_birds": 53,
+            "average_weight_index": 0.09
+        },
+        {
+            "timestamp_sec": 24.1,
+            "active_birds": 51,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 24.13,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.17,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.2,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.23,
+            "active_birds": 52,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.27,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.3,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.33,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.37,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.4,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.43,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.47,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.5,
+            "active_birds": 62,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.53,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.57,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.6,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.63,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.67,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.7,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.73,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.77,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.8,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 24.83,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.87,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 24.9,
+            "active_birds": 54,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 24.93,
+            "active_birds": 56,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 24.97,
+            "active_birds": 59,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 25.0,
+            "active_birds": 61,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.03,
+            "active_birds": 63,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.07,
+            "active_birds": 65,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.1,
+            "active_birds": 67,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.13,
+            "active_birds": 68,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.17,
+            "active_birds": 68,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 25.2,
+            "active_birds": 69,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.23,
+            "active_birds": 70,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.27,
+            "active_birds": 70,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.3,
+            "active_birds": 71,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.33,
+            "active_birds": 72,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 25.37,
+            "active_birds": 72,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 25.4,
+            "active_birds": 70,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 25.43,
+            "active_birds": 68,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 25.47,
+            "active_birds": 65,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 25.5,
+            "active_birds": 64,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.53,
+            "active_birds": 65,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 25.57,
+            "active_birds": 67,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.6,
+            "active_birds": 68,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.63,
+            "active_birds": 68,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 25.67,
+            "active_birds": 68,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.7,
+            "active_birds": 67,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.73,
+            "active_birds": 67,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.77,
+            "active_birds": 67,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.8,
+            "active_birds": 70,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 25.83,
+            "active_birds": 71,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 25.87,
+            "active_birds": 71,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.9,
+            "active_birds": 71,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 25.93,
+            "active_birds": 71,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 25.97,
+            "active_birds": 71,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 26.0,
+            "active_birds": 70,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 26.03,
+            "active_birds": 69,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 26.07,
+            "active_birds": 69,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 26.1,
+            "active_birds": 69,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 26.13,
+            "active_birds": 67,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.17,
+            "active_birds": 66,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.2,
+            "active_birds": 64,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 26.23,
+            "active_birds": 63,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.27,
+            "active_birds": 62,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.3,
+            "active_birds": 62,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.33,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.37,
+            "active_birds": 62,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.4,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.43,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.47,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.5,
+            "active_birds": 56,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 26.53,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.57,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.6,
+            "active_birds": 52,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.63,
+            "active_birds": 52,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.67,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.7,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.73,
+            "active_birds": 50,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 26.77,
+            "active_birds": 51,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 26.8,
+            "active_birds": 54,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 26.83,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 26.87,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.9,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.93,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 26.97,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.0,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.03,
+            "active_birds": 59,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 27.07,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.1,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.13,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.17,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.2,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.23,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.27,
+            "active_birds": 58,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 27.3,
+            "active_birds": 60,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 27.33,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.37,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.4,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.43,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.47,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.5,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.53,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.57,
+            "active_birds": 52,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.6,
+            "active_birds": 54,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 27.63,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.67,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.7,
+            "active_birds": 52,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.73,
+            "active_birds": 52,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.77,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.8,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.83,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.87,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.9,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 27.93,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 27.97,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.0,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.03,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.07,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.1,
+            "active_birds": 42,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.13,
+            "active_birds": 43,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 28.17,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.2,
+            "active_birds": 43,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.23,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.27,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.3,
+            "active_birds": 44,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 28.33,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.37,
+            "active_birds": 45,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.4,
+            "active_birds": 46,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.43,
+            "active_birds": 46,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.47,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 28.5,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.53,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.57,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.6,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.63,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.67,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.7,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.73,
+            "active_birds": 52,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.77,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.8,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.83,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.87,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.9,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 28.93,
+            "active_birds": 56,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 28.97,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.0,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.03,
+            "active_birds": 57,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 29.07,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.1,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.13,
+            "active_birds": 57,
+            "average_weight_index": 0.1
+        },
+        {
+            "timestamp_sec": 29.17,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 29.2,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.23,
+            "active_birds": 50,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 29.27,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 29.3,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 29.33,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 29.37,
+            "active_birds": 49,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 29.4,
+            "active_birds": 52,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 29.43,
+            "active_birds": 55,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 29.47,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.5,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.53,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.57,
+            "active_birds": 62,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.6,
+            "active_birds": 62,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.63,
+            "active_birds": 63,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.67,
+            "active_birds": 63,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.7,
+            "active_birds": 64,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.73,
+            "active_birds": 65,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.77,
+            "active_birds": 65,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.8,
+            "active_birds": 65,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.83,
+            "active_birds": 65,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 29.87,
+            "active_birds": 64,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 29.9,
+            "active_birds": 63,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 29.93,
+            "active_birds": 63,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 29.97,
+            "active_birds": 62,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.0,
+            "active_birds": 62,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.03,
+            "active_birds": 62,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.07,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.1,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.13,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.17,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.2,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.23,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.27,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.3,
+            "active_birds": 59,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 30.33,
+            "active_birds": 61,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.37,
+            "active_birds": 62,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.4,
+            "active_birds": 63,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.43,
+            "active_birds": 63,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.47,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.5,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.53,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.57,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.6,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.63,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.67,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.7,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.73,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.77,
+            "active_birds": 56,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.8,
+            "active_birds": 54,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.83,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.87,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 30.9,
+            "active_birds": 52,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 30.93,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 30.97,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.0,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.03,
+            "active_birds": 56,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 31.07,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 31.1,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 31.13,
+            "active_birds": 52,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.17,
+            "active_birds": 52,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.2,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.23,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 31.27,
+            "active_birds": 53,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 31.3,
+            "active_birds": 51,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 31.33,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 31.37,
+            "active_birds": 47,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 31.4,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.43,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.47,
+            "active_birds": 49,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.5,
+            "active_birds": 50,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.53,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.57,
+            "active_birds": 52,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.6,
+            "active_birds": 53,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.63,
+            "active_birds": 53,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.67,
+            "active_birds": 54,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.7,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.73,
+            "active_birds": 57,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.77,
+            "active_birds": 58,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.8,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.83,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.87,
+            "active_birds": 60,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.9,
+            "active_birds": 61,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 31.93,
+            "active_birds": 61,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 31.97,
+            "active_birds": 61,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.0,
+            "active_birds": 61,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.03,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.07,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.1,
+            "active_birds": 56,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.13,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.17,
+            "active_birds": 55,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 32.2,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.23,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.27,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.3,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.33,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.37,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.4,
+            "active_birds": 62,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.43,
+            "active_birds": 63,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.47,
+            "active_birds": 62,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.5,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.53,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.57,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.6,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.63,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.67,
+            "active_birds": 59,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.7,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.73,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.77,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.8,
+            "active_birds": 58,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.83,
+            "active_birds": 57,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 32.87,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.9,
+            "active_birds": 56,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.93,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 32.97,
+            "active_birds": 58,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.0,
+            "active_birds": 60,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.03,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 33.07,
+            "active_birds": 61,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 33.1,
+            "active_birds": 61,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.13,
+            "active_birds": 60,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 33.17,
+            "active_birds": 59,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 33.2,
+            "active_birds": 58,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.23,
+            "active_birds": 59,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.27,
+            "active_birds": 58,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.3,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.33,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.37,
+            "active_birds": 55,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 33.4,
+            "active_birds": 52,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.43,
+            "active_birds": 51,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.47,
+            "active_birds": 50,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.5,
+            "active_birds": 50,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.53,
+            "active_birds": 51,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.57,
+            "active_birds": 52,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.6,
+            "active_birds": 54,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 33.63,
+            "active_birds": 55,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 33.67,
+            "active_birds": 56,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.7,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.73,
+            "active_birds": 57,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.77,
+            "active_birds": 57,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.8,
+            "active_birds": 56,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 33.83,
+            "active_birds": 55,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.87,
+            "active_birds": 54,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.9,
+            "active_birds": 53,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.93,
+            "active_birds": 51,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 33.97,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.0,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.03,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.07,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.1,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.13,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.17,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.2,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.23,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.27,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.3,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.33,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.37,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.4,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.43,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.47,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.5,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.53,
+            "active_birds": 48,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.57,
+            "active_birds": 48,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.6,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.63,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.67,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.7,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.73,
+            "active_birds": 48,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 34.77,
+            "active_birds": 49,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.8,
+            "active_birds": 49,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 34.83,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.87,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.9,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.93,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 34.97,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.0,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.03,
+            "active_birds": 48,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.07,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.1,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.13,
+            "active_birds": 49,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.17,
+            "active_birds": 50,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.2,
+            "active_birds": 50,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.23,
+            "active_birds": 49,
+            "average_weight_index": 0.11
+        },
+        {
+            "timestamp_sec": 35.27,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.3,
+            "active_birds": 47,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.33,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.37,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.4,
+            "active_birds": 47,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.43,
+            "active_birds": 48,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.47,
+            "active_birds": 48,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.5,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.53,
+            "active_birds": 48,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 35.57,
+            "active_birds": 49,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 35.6,
+            "active_birds": 48,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.63,
+            "active_birds": 49,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 35.67,
+            "active_birds": 51,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 35.7,
+            "active_birds": 50,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.73,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.77,
+            "active_birds": 49,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.8,
+            "active_birds": 48,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 35.83,
+            "active_birds": 46,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 35.87,
+            "active_birds": 46,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 35.9,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.93,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 35.97,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 36.0,
+            "active_birds": 46,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 36.03,
+            "active_birds": 46,
+            "average_weight_index": 0.14
+        },
+        {
+            "timestamp_sec": 36.07,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 36.1,
+            "active_birds": 46,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 36.13,
+            "active_birds": 46,
+            "average_weight_index": 0.12
+        },
+        {
+            "timestamp_sec": 36.17,
+            "active_birds": 45,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 36.2,
+            "active_birds": 45,
+            "average_weight_index": 0.13
+        },
+        {
+            "timestamp_sec": 36.23,
+            "active_birds": 44,
+            "average_weight_index": 0.12
+        }
+    ],
+    "weight_estimates": "relative_weight_index",
+    "artifacts": {
+        "annotated_video": "outputs/annotated_output.mp4"
+    }
+}
